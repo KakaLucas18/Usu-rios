@@ -1,0 +1,16 @@
+# Usu-rios
+ { name: "Guilherme", pass: 123456 },
+  { name: "Fernando", pass: 123456 },
+  { name: "Gabriella", pass: 123456 },
+  { name: "Matheus", pass: 123456 },
+  { name: "Augusto", pass: 123456 },
+  { name: "Eduardo", pass: 123456 },
+  { name: "Beatriz", pass: 123456 },
+  { name: "Albert", pass: 123456 },
+  { name: "Lucas", pass: 123456 },
+  { name: "Jimin", pass: 123456 },
+  { name: "Hugo", pass: 123456 },
+  { name: "Luiza", pass: 123456 },
+  { name: "Karla", pass: 123456 },
+  { name: "João", pass: 123456 },
+  { name: "Italo", pass: 123456 }
